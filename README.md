@@ -14,3 +14,7 @@ Hospital Management and Appointment System (MSSQL)
 ![image4](https://i.hizliresim.com/ciknkgr.png)
 
 ![image5](https://i.hizliresim.com/dxl4un5.png)
+
+**Doctor Panels**
+
+![image6](
