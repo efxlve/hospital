@@ -17,4 +17,12 @@ Hospital Management and Appointment System (MSSQL)
 
 **Doctor Panels**
 
-![image6](
+![image6](https://github.com/efxlve/hospital-project/blob/main/Screenshots/DoctorPanels/frmDoctorLogin.png)
+
+![image7](https://github.com/efxlve/hospital-project/blob/main/Screenshots/DoctorPanels/frmDoctorDetail.png)
+
+![image8](https://github.com/efxlve/hospital-project/blob/main/Screenshots/DoctorPanels/frmDoctorInfoEdit.png)
+
+![image9](https://github.com/efxlve/hospital-project/blob/main/Screenshots/DoctorPanels/frmAnnouncements.png)
+
+**Secretary Panels**
