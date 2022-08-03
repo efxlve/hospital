@@ -3,7 +3,7 @@ Hospital Management and Appointment System (MSSQL)
 
 **Main Menu**
 
-![image1](https://i.hizliresim.com/gfxbkcp.png)
+![image1](https://github.com/efxlve/hospital-project/blob/main/Screenshots/MainMenu/frmMain.png)
 
 **Patient Panels**
 
