@@ -7,13 +7,13 @@ Hospital Management and Appointment System (MSSQL)
 
 **Patient Panels**
 
-![image2](https://i.hizliresim.com/jn50cj2.png)
+![image2](https://github.com/efxlve/hospital-project/blob/main/Screenshots/PatientPanels/frmPatientLogin.png)
 
-![image3](https://i.hizliresim.com/smbmecm.png)
+![image3](https://github.com/efxlve/hospital-project/blob/main/Screenshots/PatientPanels/frmPatientRegister.png)
 
-![image4](https://i.hizliresim.com/ciknkgr.png)
+![image4](https://github.com/efxlve/hospital-project/blob/main/Screenshots/PatientPanels/frmPatientDetail.png)
 
-![image5](https://i.hizliresim.com/dxl4un5.png)
+![image5](https://github.com/efxlve/hospital-project/blob/main/Screenshots/PatientPanels/frmPatientInfoEdit.png)
 
 **Doctor Panels**
 
